@@ -45,6 +45,10 @@ Nếu bạn muốn cài đặt lại thư viện trên một máy khác (hoặc 
 pip install -r requirements.txt
 ```
 
+- lỗi torch
+```cmd
+pip3 install --pre torch torchvision torchaudio --index-url https://download.pytorch.org/whl/nightly/cpu
+```
 ## 3. Tắt môi trường ảo
 Khi hoàn tất công việc, bạn có thể tắt môi trường ảo bằng lệnh:
 ```cmd

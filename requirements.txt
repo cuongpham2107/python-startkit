@@ -4,3 +4,5 @@ sentence-transformers
 streamlit
 pymupdf
 langchain-community
+langchain>=0.1.0
+streamlit-custom-notification-box
